@@ -25,7 +25,7 @@ https://github.com/theashishmavii/job-trends-analyzer-automation.git
 
 
 2. Install requirements:
-<pre>'''pip install -r requirements.txt'''</pre>
+<pre>pip install -r requirements.txt</pre>
 
 
 3. Configure and run scraping scripts for desired platforms.
